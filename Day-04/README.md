@@ -112,3 +112,7 @@ source myenv/bin/activate
 ```
 
 Once activated, you work in an isolated workspace with its Python interpreter and library dependencies.
+
+# To deactivate the venv please type the command as "deactivate"
+
+# Under each venv we can write multiple python scripts and save files to distinguish each Project such as Project1 or Project2
